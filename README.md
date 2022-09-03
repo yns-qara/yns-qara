@@ -12,8 +12,5 @@ I am a react/next js developer and front-end freelancer. I am passionate about n
 - THREE JS
 
 # **find me** 💌
-
-
-[fiverr](https://www.fiverr.com/talentiino "fiverr")
-
-[linkedin](https://www.linkedin.com/in/younes-qara-3457ab205/ "linkedin")
+- [fiverr](https://www.fiverr.com/talentiino "fiverr")
+- [linkedin](https://www.linkedin.com/in/younes-qara-3457ab205/ "linkedin")
