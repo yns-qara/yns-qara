@@ -9,8 +9,8 @@ I am a react/next JS developer and front-end freelancer. I am passionate about n
 - JavaScript ES6
 - React JS
 - Next JS
-- THREE JS
+- Three JS
 
-# **find me** 💌
+# **Find me** 💌
 - [fiverr](https://www.fiverr.com/talentiino "fiverr")
 - [linkedin](https://www.linkedin.com/in/younes-qara-3457ab205/ "linkedin")
