@@ -1,4 +1,4 @@
-# Hi I'M Younes Qara 😎
+# I'M Younes Qara 😎
 
 I am a react/next JS developer and front-end freelancer. I am passionate about new technologies and confidente with my skills💪
 
